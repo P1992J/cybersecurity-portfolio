@@ -30,6 +30,7 @@ IT, data, or cybersecurity role in New Zealand.
 | [NZ Privacy Act 2020 Compliance Assessment](./nz-privacy-act-gap-analysis.md) | GRC Analysis | NZ Privacy Act 2020 · Excel | May 2026 |
 | [Phishing Email Analysis](./phishing-email-analysis.md) | SOC Analysis | Thunderbird · URL2PNG · Header Analysis | June 2026 |
 | [Phishing Analysis 2 — Amazon Impersonation](./phishing-analysis-2.md) | SOC Analysis | Thunderbird · Browserling · Base64 Decode | June 2026 |
+| [ISO 27001 Gap Analysis](./iso-27001-gap-analysis.md) | GRC Analysis | ISO 27001 · Excel · Manual Assessment | June 2026 |
 
 *More projects being added weekly*
 
